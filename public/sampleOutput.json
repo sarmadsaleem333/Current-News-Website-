@@ -1,0 +1,1014 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Adam Hills",
+            "title": "The Ashes row proves elite sport is a cut-throat affair – the Lord’s chaps should applaud the Aussies",
+            "description": "England’s and Australia’s cricketers are elite athletes who must do whatever they can to win within the rules – even if some people don’t like it, writes Adam Hills",
+            "url": "http://www.independent.co.uk/voices/ashes-wicket-england-australia-bairstow-b2368585.html",
+            "urlToImage": "https://static.independent.co.uk/2023/07/03/13/e6a1736e993b4905a6639accecd361ccY29udGVudHNlYXJjaGFwaSwxNjg4NDcwNDA2-2.72846169.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-07-03T17:35:04Z",
+            "content": "I normally keep my cricketing opinions to myself, but there was an incident during the most recent Ashes Test that I feel I need to comment upon and defend. \r\nThe incident in question involved the En… [+683 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "PM slams Aussies as Poms demand apology",
+            "description": "British Prime Minister Rishi Sunak on Monday aimed a verbal bouncer at Australia&rsquo;s cricketers after the Lord&rsquo;s Ashes match as Geoff Boycott demanded a formal apology from Pat Cummins.",
+            "url": "https://www.news.com.au/sport/cricket/british-prime-minister-slams-aussies-as-poms-demand-formal-apology/news-story/80bf171a2f5d15508a14f8559692ca69",
+            "urlToImage": "https://content.api.news/v3/images/bin/3e08442147285239cca6f8eac897b742",
+            "publishedAt": "2023-07-03T16:43:00Z",
+            "content": "British Prime Minister Rishi Sunak on Monday aimed a verbal bouncer at Australia’s cricketers after the Lord’s Ashes match as Geoff Boycott demanded a formal apology from Pat Cummins.\r\nJonny Bairstow… [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Andrew McMurtry",
+            "title": "Pat Cummins nails English journalist",
+            "description": "As the cricket world continues to lose its mind over the Jonny Bairstow stumping, the Aussies are seemingly revelling in being public enemies No. 1 through 11 in England.",
+            "url": "https://www.news.com.au/sport/cricket/cummins-nails-english-journalist-after-question-about-bowling-underarm/news-story/111a81c2c04cd00849d0d82ce7f0cfb1",
+            "urlToImage": "https://content.api.news/v3/images/bin/50d58d946c23c336936037209c940d8f",
+            "publishedAt": "2023-07-03T13:37:00Z",
+            "content": "As the cricket world continues to lose its mind over the Jonny Bairstow stumping, the Aussies are seemingly revelling in being public enemies No. 1 through 11 in England.\r\nThe world erupted when Auss… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
+// this is for the api integration
+{
+    "status": "ok",
+    "totalResults": 72,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "GERARD BAKER",
+            "description": "Latest from “Free Expression” in The Wall Street Journal",
+            "url": "https://www.wsj.com/news/types/free-expression",
+            "urlToImage": "https://s.wsj.net/img/meta/wsj-social-share.png",
+            "publishedAt": "2023-07-04T03:00:04Z",
+            "content": "Free Expression - News, Articles, Biography, Photos - WSJ.comError reading article: 'article' article body selector not found. The post GERARD BAKER captured from The Drudge Report column 2, link 18 … [+314 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "PEGGY NOONAN",
+            "description": "Peggy Noonan is an opinion columnist at the Wall Street Journal where her column, \"Declarations,\" has run since 2000.",
+            "url": "https://www.wsj.com/news/author/peggy-noonan",
+            "urlToImage": "https://s.wsj.net/public/resources/images/B3-BS053_noonan_AM_20180912120458.jpg",
+            "publishedAt": "2023-07-04T03:00:04Z",
+            "content": "Peggy Noonan — Opinion Columnist, Declarations at The Wall Street JournalWhat Will Prigozhin’s Rebellion Mean?It’s probably too much to hope for Putin’s downfall, but his telling the truth about Ukra… [+426 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Migrant Workers Flee Florida as New Immigration Law Takes Effect...",
+            "description": "Farm owners and construction companies say the law, which started July 1, has already diminished their workforce",
+            "url": "https://www.wsj.com/articles/migrant-workers-flee-florida-as-new-immigration-law-takes-effect-94796abf",
+            "urlToImage": "https://images.wsj.net/im-810764/social",
+            "publishedAt": "2023-07-03T15:00:03Z",
+            "content": "Migrant Workers Flee Florida as New Immigration Law Takes EffectFlorida’s agricultural and construction industries say they are experiencing a labor shortage because a new immigration law that took e… [+737 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "CIA Chief Called to Reassure Kremlin After Wagner Mutiny...",
+            "description": "Russia’s spy boss was told U.S. had no role in uprising",
+            "url": "https://www.wsj.com/articles/cia-chief-william-burns-called-to-reassure-kremlin-after-wagner-mutiny-a5016557",
+            "urlToImage": "https://images.wsj.net/im-810371/social",
+            "publishedAt": "2023-07-01T14:00:03Z",
+            "content": "WSJ News Exclusive | CIA Chief William Burns Called to Reassure Kremlin After Wagner MutinyBy Updated June 30, 2023 8:44 pm ETThe insurrection launched by Wagner paramilitary leader Yevgeny Prigozhin… [+1147 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "John Gruber",
+            "title": "Domingo Germán Throws the 24th Perfect Game in MLB History",
+            "description": "The Yankees pitcher tossed the fourth perfect game in franchise history late Wednesday night against the Oakland A’s",
+            "url": "https://www.wsj.com/sports/baseball/domingo-german-perfect-game-yankees-ad62f2ff",
+            "urlToImage": "https://images.wsj.net/im-809107/social",
+            "publishedAt": "2023-06-30T00:24:23Z",
+            "content": "Lindsey Adler, reporting for The Wall Street Journal:\n\n\n Before the season began, New York Yankees pitcher Domingo Germán\nchanged his jersey number from 55 to 0. It turned out to be a\nprescient move.… [+664 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Inside Mormon Church's Globe-Spanning Real-Estate Empire...",
+            "description": "From Guam to Cape Verde, the Church of Jesus Christ of Latter-day Saints is using the financial cushion of its $100 billion investment portfolio to go on a temple-building spree",
+            "url": "https://www.wsj.com/articles/mormon-church-temple-spending-spree-utah-e167977f",
+            "urlToImage": "https://images.wsj.net/im-807861/social",
+            "publishedAt": "2023-06-29T20:00:03Z",
+            "content": "Inside the Mormon Church’s Globe-Spanning Real-Estate EmpireA whistleblower revealed a few years ago that the Church of Jesus Christ of Latter-day Saints had an estimated $100 billion investment port… [+741 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "The Last Remaining Original Owner Of A Frank Lloyd Wright House",
+            "description": "The 71 years he has spent in the house—so far—may have contributed to his longevity. “Neurologists say that awareness of beautiful surroundings reduces stress, and I see something beautiful in this house every day,” he says. – The Wall Street Journal",
+            "url": "https://www.wsj.com/articles/frank-lloyd-wright-built-120-homes-near-the-end-of-his-life-just-one-original-owner-remains-83ed1d74",
+            "urlToImage": "https://images.wsj.net/im-806645/social",
+            "publishedAt": "2023-06-29T19:32:00Z",
+            "content": "After me, there wont be any others, says Roland Reisley, absorbing what it means to be the last original occupant in a Frank Lloyd Wright house. Reisley is sitting in his hexagonal living room on a r… [+466 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Chinese Balloon Used American Tech to Spy on Americans...",
+            "description": "Preliminary U.S. findings show the craft collected photos and videos but didn’t appear to transmit them, officials say",
+            "url": "https://www.wsj.com/articles/chinese-balloon-used-american-tech-to-spy-on-americans-2e3f5039",
+            "urlToImage": "https://images.wsj.net/im-807595/social",
+            "publishedAt": "2023-06-29T04:00:03Z",
+            "content": "WSJ News Exclusive | Chinese Balloon Used American Tech to Spy on AmericansBy June 28, 2023 11:00 pm ETA Chinese spy balloon and unidentified flying objects were shot down over the U.S. and Canada th… [+1065 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "News Publishers Team Up to Address Impact of AI...",
+            "description": "New York Times, Wall Street Journal parent News Corp and Dotdash Meredith owner IAC are among companies discussing forming a coalition",
+            "url": "https://www.wsj.com/articles/big-news-publishers-look-to-team-up-to-address-impact-of-ai-80c3b88e",
+            "urlToImage": "https://images.wsj.net/im-808793/social",
+            "publishedAt": "2023-06-29T01:00:03Z",
+            "content": "WSJ News Exclusive | Big News Publishers Look to Team Up to Address Impact of AIBy June 28, 2023 4:24 pm ET\r\nSeveral large news and magazine publishers are discussing the formation of a new coalition… [+794 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Vlad Moves to Seize Control of Wagner's Global Empire...",
+            "description": "The Kremlin assured nations in Africa and the Middle East that it would manage Wagner forces, which have spread Russian power at little cost to Putin",
+            "url": "https://www.wsj.com/articles/putin-moves-to-seize-control-of-wagners-global-empire-26d49286",
+            "urlToImage": "https://images.wsj.net/im-808209/social",
+            "publishedAt": "2023-06-28T14:00:03Z",
+            "content": "WSJ News Exclusive | Putin Moves to Seize Control of Wagner’s Global EmpireIn the hours after Yevgeny Prigozhin’s army of ex-convicts and mercenaries halted their advance on Moscow, the Kremlin set o… [+757 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Douglas Smith",
+            "title": "‘The World’ Review: History Branched Out",
+            "description": "Simon Sebag Montefiore tells the story of humanity through families, be they large or small, powerful or weak, rich or poor.",
+            "url": "https://www.wsj.com/articles/the-world-review-history-branched-out-4d18193a",
+            "urlToImage": "https://images.wsj.net/im-807294/social",
+            "publishedAt": "2023-06-28T04:54:31Z",
+            "content": "You know you are in for quite a ride when an enormous tome of world history begins: I am Enheduanna, let me speak to you! An Akkadian high priestess of the moon god Nanna from the third millennium B.… [+406 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Tom Fairless",
+            "title": "ECB Likely to Hike Rates in July, Says Central Bank President Lagarde",
+            "description": "EV startup Lordstown files for bankruptcy",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-27-2023",
+            "urlToImage": "https://images.wsj.net/im-807521/social",
+            "publishedAt": "2023-06-27T10:32:15Z",
+            "content": "European Central Bank President Christine Lagarde said the bank would likely raise interest rates in July and keep them high for some time, signaling that the ECB still has a way to go to tame high i… [+484 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Charley Grant",
+            "title": "Pfizer Sells Off After Discontinuing Weight Loss Drug",
+            "description": "Live updates of stocks and financial news, including the S&P 500, Dow and Nasdaq Composite.",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-26-2023",
+            "urlToImage": "https://images.wsj.net/im-785590/social",
+            "publishedAt": "2023-06-26T13:11:35Z",
+            "content": "Pfizer stock is selling off after the pharma giant announced it's discontinuing development of an experimental weight loss drug.\r\nPfizer said it halted development of the drug, lotiglipron, and would… [+295 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Questions Swirl on Truce...",
+            "description": "Russian defense chief Shoigu reappears while Kremlin media suggest the Wagner chief could yet face charges",
+            "url": "https://www.wsj.com/articles/questions-swirl-on-russia-truce-as-putin-prigozhin-stay-silent-b8a44500",
+            "urlToImage": "https://images.wsj.net/im-806773/social",
+            "publishedAt": "2023-06-26T12:00:03Z",
+            "content": "Questions Swirl on Russia Truce as Putin, Prigozhin Stay SilentBy June 26, 2023 7:13 am ETThe terms of the deal that narrowly averted an all-out battle between Russian government forces and the Wagne… [+885 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Mondays Are the New Office Fight...",
+            "description": "Bosses argue that starting off the week in person—instead of remotely— creates good energy",
+            "url": "https://www.wsj.com/articles/mondays-are-the-new-office-fight-efd3ce3f",
+            "urlToImage": "https://images.wsj.net/im-805062/social",
+            "publishedAt": "2023-06-26T12:00:03Z",
+            "content": "Mondays Are the New Office FightWhen Jeff Hornstein asked his staff to come back to the office on Mondays, he says, it didn’t seem like such a big ask.Copyright ©2023 Dow Jones & Company, Inc. All Ri… [+578 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "OZEMPIC pill coming...",
+            "description": "Tablets could appeal to people who want to lose weight but despise needles",
+            "url": "https://www.wsj.com/articles/no-more-shots-pill-versions-of-ozempic-like-drugs-are-coming-ca286ca2",
+            "urlToImage": "https://images.wsj.net/im-805956/social",
+            "publishedAt": "2023-06-25T13:00:03Z",
+            "content": "No More Shots: Pill Versions of Ozempic-Like Drugs Are ComingBy Updated June 25, 2023 12:01 am ET\r\nIn the works for people flocking to Ozempic to shed lots of pounds: Weight-loss medicines that come … [+664 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Anna Hirtenstein",
+            "title": "Oil Prices Expected to Jump on Conflict in Russia",
+            "description": "The Russian paramilitary group led by Yevgeny Prigozhin has seized control of a military headquarters in Russia's south and is sending troops north toward Moscow.",
+            "url": "https://www.wsj.com/livecoverage/russia-wagner-prigozhin-putin",
+            "urlToImage": "https://images.wsj.net/im-806381?width=600",
+            "publishedAt": "2023-06-24T14:47:57Z",
+            "content": "Oil traders and analysts are bracing for higher energy prices on Monday.\r\n\"Internal turmoil is a risk for supply to global markets, if it turns out to be a proper civil war it would of course hamper … [+301 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Yearslong Feud...",
+            "description": "The heads of Twitter and Meta elevate their personal rivalry with proposed fight",
+            "url": "https://www.wsj.com/articles/elon-musk-mark-zuckerberg-cage-fight-b71fa4ff",
+            "urlToImage": "https://images.wsj.net/im-805398/social",
+            "publishedAt": "2023-06-23T15:00:03Z",
+            "content": "Behind the Musk-Zuckerberg ‘Cage Match’ Is a Yearslong Billionaire FeudBy and Updated June 23, 2023 10:10 am ETEven by the standards of billionaire-versus-billionaire tiffs, the proposed cage fight b… [+675 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Chelsey Dulaney",
+            "title": "Stocks to Watch: 3M, Siemens Energy, GSK, CarMax",
+            "description": "Oil prices and Asian stocks also declined",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-23-2023",
+            "urlToImage": "https://images.wsj.net/im-805386/social",
+            "publishedAt": "2023-06-23T08:56:19Z",
+            "content": "3M (MMM): The company agreed to pay up to $12.5 billion to settle lawsuits that said drinking water was contaminated by forever chemicals made by 3M. Shares rose 4.2% in premarket trading.\r\nSiemens E… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Deadly Fungal Infections Confound Doctors: 'Going to Get Worse'...",
+            "description": "Once a freak occurrence, fungi resistant to standard drugs now threaten millions of vulnerable Americans",
+            "url": "https://www.wsj.com/articles/deadly-fungal-infection-candida-auris-yeast-ab73b9d0",
+            "urlToImage": "https://images.wsj.net/im-803741/social",
+            "publishedAt": "2023-06-22T22:00:03Z",
+            "content": "Deadly Fungal Infections Confound Doctors—‘It’s Going to Get Worse’It took doctors a month to figure out a fungus had infected Glenda Brame’s bloodstream. The delay likely led to her death.Copyright … [+658 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "NAVY KNEW DAYS AGO",
+            "description": "Underwater microphones designed to detect enemy submarines first detected Titan tragedy",
+            "url": "https://www.wsj.com/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12",
+            "urlToImage": "https://images.wsj.net/im-805353/social",
+            "publishedAt": "2023-06-22T22:00:03Z",
+            "content": "WSJ News Exclusive | Top Secret U.S. Navy System Heard Titan Implosion Days AgoBy and June 22, 2023 5:37 pm ETThe U.S. Coast Guard on Thursday said all five passengers aboard a missing submersible we… [+991 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "RFK Jr. White House Bid Is Mix of Nostalgia and Conspiracy...",
+            "description": "Environmental lawyer creates a headache for President Biden and the Democratic Party",
+            "url": "https://www.wsj.com/articles/robert-f-kennedy-election-presidential-campaign-2024-5265d2b8",
+            "urlToImage": "https://images.wsj.net/im-804594/social",
+            "publishedAt": "2023-06-22T12:00:03Z",
+            "content": "RFK Jr.’s White House Bid Is a Mix of Nostalgia and Conspiracy TheoriesNASHUA, N.H.—Robert F. Kennedy Jr. stood in front of a statue of President John F. Kennedy at the site marking his uncle’s first… [+700 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "New TWITTER CEO makes nice with GOOGLE, pays bills...",
+            "description": "Social-media platform is now paying for Google cloud services amid talks of broader partnership",
+            "url": "https://www.wsj.com/articles/twitter-ceo-intervened-to-mend-google-relationship-after-cloud-payment-issue-1e61186f",
+            "urlToImage": "https://images.wsj.net/im-804570/social",
+            "publishedAt": "2023-06-22T05:00:03Z",
+            "content": "Twitter CEO Intervened to Mend Google Relationship After Cloud Payment Issue\r\nTwitter Chief Executive Linda Yaccarino intervened to help repair the relationship between the social-media company and A… [+836 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "SIMON & SCHUSTER Draws Bid From Abu Dhabi-Backed Investor...",
+            "description": "Richard Hurowitz, an investor and author, has partnered with Mubadala Investment Co. on bid for the book publisher",
+            "url": "https://www.wsj.com/articles/simon-schuster-draws-bid-from-investor-backed-by-abu-dhabi-based-sovereign-fund-2787adf",
+            "urlToImage": "https://images.wsj.net/im-804239/social",
+            "publishedAt": "2023-06-21T22:00:03Z",
+            "content": "WSJ News Exclusive | Simon & Schuster Draws Bid From Investor Backed by Abu Dhabi-Based Sovereign Fund\r\nInvestor Richard Hurowitz, with backing from Abu Dhabi-based sovereign wealth manager Mubadala … [+841 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Justice Alito Downloads on PROPUBLICA ahead of expose... Developing...",
+            "description": "The publication levels false charges about Supreme Court recusal, financial disclosures and a 2008 fishing trip.",
+            "url": "https://www.wsj.com/articles/propublica-misleads-its-readers-alito-gifts-disclosure-alaska-singer-23b51eda",
+            "urlToImage": "https://images.wsj.net/im-803613/social",
+            "publishedAt": "2023-06-21T00:00:02Z",
+            "content": "Opinion | Justice Samuel Alito: ProPublica Misleads Its ReadersJournal Editorial Report: The week's worst and best from Kim Strassel, Kyle Peterson and Dan Henninger. Image: Richard B. Levine/Zuma Pr… [+1155 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "REDDIT Hackers Threaten to Leak Stolen Data...",
+            "description": "Scores of Reddit communities protested the developer fees last week; some remain offline",
+            "url": "https://www.wsj.com/articles/reddit-hackers-threaten-to-leak-stolen-data-if-company-doesnt-pay-4-5-million-abandon-fees-b0548605",
+            "urlToImage": "https://images.wsj.net/im-803115/social",
+            "publishedAt": "2023-06-20T21:00:02Z",
+            "content": "Reddit Hackers Threaten to Leak Stolen Data If Company Doesn’t Pay $4.5 Million, Abandon Fees\r\nA hacker group is threatening to leak confidential information it stole from Reddit if the social-media … [+825 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Private Eye Found Guilty of Acting as Illegal Chinese Agent...",
+            "description": "Justice Department accused an investigator and two other defendants of harassing a former Chinese official living in New Jersey",
+            "url": "https://www.wsj.com/articles/private-eye-found-guilty-of-acting-as-illegal-chinese-agent-17e7ca71",
+            "urlToImage": "https://images.wsj.net/im-803326/social",
+            "publishedAt": "2023-06-20T21:00:02Z",
+            "content": "Private Eye Found Guilty of Acting as Illegal Chinese Agent\r\nA private investigator and another man were found guilty on Tuesday of acting as illegal agents of the Chinese government in a harassment … [+768 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Lawmakers Acting as Food Police?",
+            "description": "Congress considers restrictions on federal food-aid purchases",
+            "url": "https://www.wsj.com/articles/are-lawmakers-seeking-healthy-limits-on-junk-food-or-acting-as-food-police-3c28c5",
+            "urlToImage": "https://images.wsj.net/im-802263/social",
+            "publishedAt": "2023-06-20T18:00:02Z",
+            "content": "Are Lawmakers Seeking Healthy Limits on Junk Food or Acting as Food Police?\r\nWASHINGTON—In a push to boost the country’s health, some lawmakers want to prevent people from buying soda or junk food wi… [+770 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Maker Sues Spas and Clinics Selling Custom-Made Versions...",
+            "description": "Novo Nordisk accuses the firms of false advertising, trademark infringement and unfair competition",
+            "url": "https://www.wsj.com/articles/ozempic-maker-sues-spas-and-clinics-selling-custom-made-versions-7e885f7a",
+            "urlToImage": "https://images.wsj.net/im-802917/social",
+            "publishedAt": "2023-06-20T16:00:04Z",
+            "content": "Ozempic Maker Sues Spas and Clinics Selling Custom-Made VersionsSome drugs initially approved to treat Type 2 diabetes are now being used for cosmetic weight loss. WSJ’s Daniela Hernandez explains ho… [+1038 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "'I Screamed and Ran, Called 911.' Home Showings That Went South...",
+            "description": "We asked three real-estate agents if they’d ever feared for their lives while on the job",
+            "url": "https://www.wsj.com/articles/i-screamed-and-ran-called-911-three-home-showings-that-went-south-real-fast-a9c0d47c",
+            "urlToImage": "https://images.wsj.net/im-772438/social",
+            "publishedAt": "2023-06-19T13:00:04Z",
+            "content": "‘I Screamed and Ran, Called 911.’ Three Home Showings That Went South Real Fast\r\nQ: Have you ever feared for your life while showing a home?Elizabeth Thompson, real-estate agent, The Agency Los Altos… [+736 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Homeless Numbers Rise in Cities...",
+            "description": "Wall Street Journal review finds sharper increases than in recent years as pandemic-era protections end and housing costs climb",
+            "url": "https://www.wsj.com/articles/homeless-numbers-rise-in-u-s-cities-fd59bc7b",
+            "urlToImage": "https://images.wsj.net/im-802349/social",
+            "publishedAt": "2023-06-19T12:00:04Z",
+            "content": "WSJ News Exclusive | Homeless Numbers Rise in U.S. CitiesThe number of homeless people counted on streets and in shelters around the U.S. has broadly risen this year, according to a Wall Street Journ… [+667 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "BLINKEN IN BEIJING",
+            "description": "Chinese officials have painted  the U.S. as most eager to meet but have their own reasons for detente",
+            "url": "https://www.wsj.com/articles/after-months-of-cold-shoulder-china-welcomes-blinken-to-beijing-84b51627",
+            "urlToImage": "https://images.wsj.net/im-802541/social",
+            "publishedAt": "2023-06-18T14:00:04Z",
+            "content": "After Months of Cold Shoulder, China Welcomes Blinken to BeijingSecretary of State Antony Blinken met with Chinese Foreign Minister Qin Gang on Sunday. Photo: Leah Millis/Pool Photo via APBEIJING—Whi… [+802 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Americans Describe Harsh Life in Russian Labor Camp...",
+            "description": "IK-17 inmates struggle with hazardous work and meager medical care. It could be the next destination for jailed WSJ reporter Evan Gershkovich.",
+            "url": "https://www.wsj.com/articles/russias-grim-fashion-colony-americans-describe-harsh-life-in-remote-labor-camp-9324bb80",
+            "urlToImage": "https://images.wsj.net/im-796882/social",
+            "publishedAt": "2023-06-18T11:00:04Z",
+            "content": "WSJ News Exclusive | Russia’s Grim ‘Fashion Colony’: Americans Describe Harsh Life in Remote Labor CampThe Russian national anthem blares from loudspeakers each morning at the IK-17 penitentiary in R… [+857 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "‘The Whiskey Rebellion’ Review: A Young Nation, Suddenly Tested",
+            "description": "Escalating resistance to a new tax exacerbated a wider sense of crisis. The president decided to take the field himself as commander in chief.",
+            "url": "https://www.wsj.com/articles/the-whiskey-rebellion-review-a-young-nation-suddenly-tested-3a2a692b",
+            "urlToImage": "https://images.wsj.net/im-799703/social",
+            "publishedAt": "2023-06-16T17:46:19Z",
+            "content": "On Christmas Day 1794, an estimated 20,000 citizens lined the streets of Philadelphia to gawp and jeer as a score of bedraggled and shivering prisoners shuffled past under military escort. In the dep… [+457 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "CNN's Business Challenges Run Deeper Than Chris Licht...",
+            "description": "Former CEO is gone, but what remains is the network’s tricky shift to digital and away from a decaying TV business",
+            "url": "https://www.wsj.com/articles/the-top-business-challenge-awaiting-cnns-next-ceo-a1d3bc5a",
+            "urlToImage": "https://images.wsj.net/im-801025/social",
+            "publishedAt": "2023-06-16T17:00:04Z",
+            "content": "CNN’s Business Challenges Run Deeper Than Chris LichtCNN parted ways with CEO Chris Licht following a tumultuous tenure as head of the news network. Photo: Michael Loccisano/Getty Images for SemaforT… [+911 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "INDICTMENT WATCH: JACK SMITH DIGS INTO JAN 6...",
+            "description": "While Mar-a-Lago documents case is in spotlight, special counsel Jack Smith is pushing ahead in his other inquiry",
+            "url": "https://www.wsj.com/articles/federal-probe-advances-into-trumps-effort-to-reverse-2020-election-a2c1dd63",
+            "urlToImage": "https://images.wsj.net/im-800647/social",
+            "publishedAt": "2023-06-16T17:00:04Z",
+            "content": "Federal Probe Advances Into Trump’s Effort to Reverse 2020 Election In the indictment of former President Donald Trump, federal prosecutors describe allegations regarding the handling of classified d… [+993 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "USA Grapples With Threats From Chinese AI...",
+            "description": "Defining risky artificial intelligence poses challenge as Washington moves to curb investment in Chinese tech",
+            "url": "https://www.wsj.com/articles/u-s-grapples-with-potential-threats-from-chinese-ai-7d1f2e70",
+            "urlToImage": "https://images.wsj.net/im-800339/social",
+            "publishedAt": "2023-06-16T17:00:04Z",
+            "content": "U.S. Grapples With Potential Threats From Chinese AIAt The Wall Street Journal’s CEO Council Summit in London, executives discuss the value of artificial intelligence as well as possible downsides to… [+944 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "The New Night Out: Adults-Only Bouncy Houses...",
+            "description": "Grown-ups try to rekindle a childhood pastime, this time with achy muscles. ‘That hurt my back!’",
+            "url": "https://www.wsj.com/articles/bouncy-house-adults-only-events-f3331e1a",
+            "urlToImage": "https://images.wsj.net/im-800721/social",
+            "publishedAt": "2023-06-16T14:00:04Z",
+            "content": "The New Night Out: Adults-Only Bouncy HousesAdults are discovering that jumping in bouncy houses, a childhood pastime, isn’t the same when you’re older and less nimble.Copyright ©2023 Dow Jones & Com… [+604 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "'Lock Her Up' Attacks on Clinton Used in Case Against Him...",
+            "description": "Trump’s statements referring to Clinton’s handling of classified information are cited in former president’s indictment",
+            "url": "https://www.wsj.com/articles/donald-trump-indicted-hillary-clinton-3b266500",
+            "urlToImage": "https://images.wsj.net/im-800187/social",
+            "publishedAt": "2023-06-16T14:00:04Z",
+            "content": "‘Lock Her Up’ Attacks on Clinton in 2016 Are Used in Case Against TrumpIn the indictment of Donald Trump, federal prosecutors describe allegations that the former president kept national-defense info… [+1108 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Quentin Webb",
+            "title": "Virgin Galactic Stock Soars as Company Readies for First Commercial Space Flight",
+            "description": "Index futures are subdued, a day after the major benchmarks notched fresh 2023 highs",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-16-2023",
+            "urlToImage": "https://images.wsj.net/im-801784/social",
+            "publishedAt": "2023-06-16T10:49:13Z",
+            "content": "Virgin Galactic (SPCE)'s shares are rocketing after the company said it was days away from sending its first commercial flight into space, following years of delays.\r\nGalactic 01 is due to fly betwee… [+343 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Peggy Noonan",
+            "title": "NOONAN: The Indictment Can Only Hurt Him...",
+            "description": "NOONAN: The Indictment Can Only Hurt Him...\r\n\n \n \n \n (First column, 11th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Trump Promises 'Food for Everyone' at Restaurant...\r\nThen leaves without paying...\r\nNo one got anything...\r\nMAGA Pastor Suggests Christians Shou…",
+            "url": "https://www.wsj.com/articles/the-indictment-can-only-hurt-trump-mar-a-lago-arrest-election-maga-voters-national-security-43159f31",
+            "urlToImage": "https://images.wsj.net/im-799326/social",
+            "publishedAt": "2023-06-16T03:40:37Z",
+            "content": "Peggy Noonan is an opinion columnist at the Wall Street Journal where her column, \"Declarations,\" has run since 2000. \r\nShe was awarded the Pulitzer Prize for Commentary in 2017.  A political analyst… [+1168 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Offensive Emails Among Businessmen, Don Jr. Spark Fight in Hedge Fund Case...Derogatory remarks about Jews and Mexicans...",
+            "description": "A judge will decide whether to release unredacted emails that included derogatory remarks about Jews and Mexicans",
+            "url": "https://www.wsj.com/articles/offensive-emails-among-businessmen-donald-trump-jr-spark-fight-in-hedge-fund-case-f14fa05b",
+            "urlToImage": "https://images.wsj.net/im-799663/social",
+            "publishedAt": "2023-06-15T15:00:04Z",
+            "content": "Offensive Emails Among Businessmen, Donald Trump Jr. Spark Fight in Hedge Fund Case\r\nThe Texas financier Gentry Beach has made no secret of having close ties to Donald Trump Jr., serving as a groomsm… [+900 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "The Search for Wilson, the Missing Hero Rescue Dog of the Amazon Jungle...",
+            "description": "A beloved shepherd helped look for four lost Colombian children, and then vanished in the wilderness. About 100 commandos are trying to find him.",
+            "url": "https://www.wsj.com/articles/colombia-children-jungle-dog-wilson-3b7570b1",
+            "urlToImage": "https://images.wsj.net/im-800029/social",
+            "publishedAt": "2023-06-15T13:00:04Z",
+            "content": "The Search for Wilson, the Missing Hero Rescue Dog of the Amazon JungleCopyright ©2023 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8Continue reading your article wit… [+538 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Ukraine's Offensive Meets Strong Russian Riposte...",
+            "description": "Kyiv’s forces are making progress but encountering resistance, defense official says",
+            "url": "https://www.wsj.com/articles/ukraines-offensive-meets-strong-russian-riposte-4d588bdf",
+            "urlToImage": "https://images.wsj.net/im-800920/social",
+            "publishedAt": "2023-06-15T12:00:04Z",
+            "content": "Ukraine’s Offensive Meets Strong Russian RiposteFierce battles have ensued in the south and east of Ukraine as Russian forces push back against a counteroffensive aimed at driving them from the regio… [+701 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "When AI Overrules the Nurses Caring for You...",
+            "description": "Artificial intelligence raises difficult questions about who makes the call in a health crisis: the human or the machine?",
+            "url": "https://www.wsj.com/articles/ai-medical-diagnosis-nurses-f881b0fe",
+            "urlToImage": "https://images.wsj.net/im-799675/social",
+            "publishedAt": "2023-06-15T12:00:04Z",
+            "content": "When AI Overrules the Nurses Caring for YouMelissa Beebe, an oncology nurse, relies on her observation skills to make life-or-death decisions. A sleepy patient with dilated pupils could have had a he… [+731 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Josh Mitchell",
+            "title": "Stocks to Watch Thursday: Tesla, Alibaba, Lennar",
+            "description": "Federal Reserve held interest rates steady after 10 consecutive increases",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-15-2023",
+            "urlToImage": "https://images.wsj.net/im-800925/social",
+            "publishedAt": "2023-06-15T09:55:03Z",
+            "content": "JD.com (JD), Alibaba (BABA), Baidu (BIDU): Shares in the three Chinese tech companies all rose more than 4% in Asia after China's central bank cut a key interest rate. American depositary receipts al… [+298 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "USA Launches Quiet Diplomatic Push With Iran...",
+            "description": "Talks in Oman seek release of American prisoners as Iran wants billions of dollars trapped overseas",
+            "url": "https://www.wsj.com/articles/u-s-launches-quiet-diplomatic-push-with-iran-to-cool-tensions-2f45af3",
+            "urlToImage": "https://images.wsj.net/im-800107/social",
+            "publishedAt": "2023-06-14T20:00:04Z",
+            "content": "WSJ News Exclusive | U.S. Launches Quiet Diplomatic Push With Iran to Cool TensionsWhile Iran says it isn’t trying to build nuclear weapons, a look at its key facilities suggests it could develop the… [+1067 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "The Soldier Who Surrendered to Ukrainian Drone...",
+            "description": "Trying to survive bombardment in the trenches, draftee Ruslan Anitin pleaded with a drone to spare his life",
+            "url": "https://www.wsj.com/articles/russia-soldier-surrender-ukraine-drone-3860ab6a",
+            "urlToImage": "https://images.wsj.net/im-798963/social",
+            "publishedAt": "2023-06-14T12:00:04Z",
+            "content": "The Russian Soldier Who Surrendered to a Ukrainian DroneKUPYANSK, Ukraine—Russian draftee Ruslan Anitin was being hunted by Ukrainian drones dropping small bombs. For hours, he scurried up and down a… [+663 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Eliot Brown, Weilun Soon",
+            "title": "Stocks to Watch Wednesday: UnitedHealth, Shell, Nvidia, Lennar",
+            "description": "The Federal Reserve is expected to hold rates steady",
+            "url": "https://www.wsj.com/livecoverage/federal-reserve-meeting-interest-rate-june-2023",
+            "urlToImage": "https://images.wsj.net/im-799454/social",
+            "publishedAt": "2023-06-14T09:36:00Z",
+            "content": "UnitedHealth (UNH), Humana (HUM), Assurant (AIZ): Health insurers shares fell in offhours trading. The possible culprit: UnitedHealths finance chief said that the company was seeing pent-up demand fo… [+439 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "U.S. Spy Agencies Buy Vast Quantities of Americans' Personal Data...",
+            "description": "Commercially available data from cars, phones and web browsers rivals results from wiretaps, cyber espionage and physical surveillance",
+            "url": "https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad",
+            "urlToImage": "https://images.wsj.net/im-798772/social",
+            "publishedAt": "2023-06-12T19:00:04Z",
+            "content": "U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data, U.S. Says\r\nWASHINGTON—The vast quantities of Americans’ personal data available for sale have provided a rich stream of intelligence… [+835 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "hirundo",
+            "title": "The moral hazards of being beautiful",
+            "description": "Article URL: https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61\nComments URL: https://news.ycombinator.com/item?id=36293286\nPoints: 5\n# Comments: 1",
+            "url": "https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61",
+            "urlToImage": "https://images.wsj.net/im-793989/social",
+            "publishedAt": "2023-06-12T13:42:30Z",
+            "content": "Beauty has its privileges. Studies reliably show that the most physically attractive among us tend to get more attention from parents, better grades in school, more money at work and more satisfactio… [+355 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "White House Admits China Has Had Cuba Spy Base Since '19...",
+            "description": "Statement says Beijing’s efforts to expand its intelligence gathering are ongoing",
+            "url": "https://www.wsj.com/articles/white-house-says-china-has-had-cuba-spy-base-since-at-least-2019-42145596",
+            "urlToImage": "https://images.wsj.net/im-798241/social",
+            "publishedAt": "2023-06-11T11:00:04Z",
+            "content": "White House Says China Has Had Cuba Spy Base Since at Least 2019\r\nWASHINGTON—The White House on Saturday said that China has had a spy base in Cuba since at least 2019 and Beijing’s efforts to expand… [+723 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Pok�mon-Card Crime Spree Jolts Japan...",
+            "description": "The birthplace of Pokémon battles a frenzy for characters such as Squirtle the turtle",
+            "url": "https://www.wsj.com/articles/a-pokemon-card-crime-spree-jolts-japan-94b21fd2",
+            "urlToImage": "https://images.wsj.net/im-754406/social",
+            "publishedAt": "2023-06-11T11:00:04Z",
+            "content": "A Pokémon-Card Crime Spree Jolts JapanCopyright ©2023 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8Continue reading your article witha WSJ subscriptionAlready a subs… [+477 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Ukrainian Troops Face Hard Slog in Offensive's First Days...",
+            "description": "Brigades with Western arms make small gains against Russia’s defensive lines in occupied regions",
+            "url": "https://www.wsj.com/articles/ukraine-achieves-mixed-success-in-counteroffensives-early-battles-says-u-k-e0b40334",
+            "urlToImage": "https://images.wsj.net/im-798202/social",
+            "publishedAt": "2023-06-10T18:00:04Z",
+            "content": "‘A Wall of Steel’: Ukrainian Troops Face Hard Slog in Offensive’s First DaysZAPORIZHZHIA, Ukraine—The assault began Thursday night, with about 100 troops, two German-made Leopard II tanks and several… [+733 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Cloud Seeding Makes Hot Comeback as Drought Solution...",
+            "description": "Demand has skyrocketed across the Western U.S. and Mexico to boost rain, snowfall",
+            "url": "https://www.wsj.com/articles/texas-drought-cloud-seeding-rain-40196a60",
+            "urlToImage": "https://images.wsj.net/im-796069/social",
+            "publishedAt": "2023-06-09T19:00:05Z",
+            "content": "Cloud Seeding Makes Hot Comeback as a Solution to DroughtSAN ANGELO, Texas—Inside a small office at the San Angelo Regional Airport, Jonathan Jennings is looking for a big opportunity. He’s checking … [+750 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "AnnaMaria Andriotis",
+            "title": "Goldman Exec Stephanie Cohen Is Going on Leave",
+            "description": "Live updates on what's moving markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-09-2023",
+            "urlToImage": "https://images.wsj.net/im-797457/social",
+            "publishedAt": "2023-06-09T12:15:00Z",
+            "content": "A Goldman executive who runs a big piece of its consumer business is going on leave.\r\nStephanie Cohen, who oversees Goldman's credit-card partnerships with Apple and General Motors and consumer lende… [+317 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Miles Kruppa",
+            "title": "米グーグル、社員の出社義務を厳格化",
+            "description": "News Corp is a global, diversified media and information services company focused on creating and distributing authoritative and engaging content and other products and services.",
+            "url": "https://jp.wsj.com/articles/google-gets-stricter-about-employees-time-in-officegoogle-gets-stricter-about-employees-time-in-office-f49cc55f",
+            "urlToImage": "https://images.wsj.net/im-796473/social",
+            "publishedAt": "2023-06-09T08:29:21Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "META Reveals TWITTER Competitor Planned as Stand-Alone App...",
+            "description": "Zuckerberg criticizes Apple’s Vision Pro headset, saying Meta has tried to make products affordable",
+            "url": "https://www.wsj.com/articles/meta-reveals-twitter-competitor-it-plans-to-launch-as-stand-alone-app-4a9b7721",
+            "urlToImage": "https://images.wsj.net/im-797332/social",
+            "publishedAt": "2023-06-09T02:00:03Z",
+            "content": "Meta Reveals Twitter Competitor It Plans to Launch as Stand-Alone App\r\nFacebook parent Meta Platforms unveiled to employees a stand-alone app it plans to launch through Instagram to compete with Twit… [+733 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "NOONAN: Don't Count a Third Party Out in '24...",
+            "description": "If Biden and Trump are the nominees, who’s to say Americans won’t decide on another option?",
+            "url": "https://www.wsj.com/articles/dont-count-a-third-party-out-in-2024-no-labels-independents-republicans-democrats-election-candidate-nomination-polarization-f5931258",
+            "urlToImage": "https://images.wsj.net/im-796777/social",
+            "publishedAt": "2023-06-09T02:00:03Z",
+            "content": "Peggy Noonan is an opinion columnist at the Wall Street Journal where her column, \"Declarations,\" has run since 2000. \r\nShe was awarded the Pulitzer Prize for Commentary in 2017.  A political analyst… [+1168 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "GOOGLE to Launch News Showcase: Pay 150 news outlets...",
+            "description": "Company will pay more than 150 U.S. news publications to feature their content",
+            "url": "https://www.wsj.com/articles/google-to-launch-long-delayed-news-showcase-product-in-u-s-this-summer-4aec324d",
+            "urlToImage": "https://images.wsj.net/im-796449/social",
+            "publishedAt": "2023-06-08T21:00:04Z",
+            "content": "Google to Launch Long-Delayed News Showcase Product in U.S. This Summer\r\nGoogle said a long-delayed product that pays news publishers to feature their content would launch in the U.S. this summer, pa… [+749 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "The Week Kingdom Tightened Its Grip on Global Sports...",
+            "description": "The Kingdom’s efforts to gain a foothold in soccer and other sports, long laughed off, have gained powerful momentum with its dramatic entry into U.S. golf",
+            "url": "https://www.wsj.com/sports/saudi-arabia-liv-golf-ronaldo-benzema-59ac8ee0",
+            "urlToImage": "https://images.wsj.net/im-795531/social",
+            "publishedAt": "2023-06-08T12:00:04Z",
+            "content": "The Week Saudi Arabia Tightened Its Grip on Global SportsWhen Saudi Arabia first decided to exert its influence on global sports around five years ago, the Kingdom wasn’t even the biggest player in i… [+824 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Cuba to Host Secret Chinese Spy Base Focusing on USA...",
+            "description": "Beijing agrees to pay Havana several billion dollars for eavesdropping facility",
+            "url": "https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0",
+            "urlToImage": "https://images.wsj.net/im-796210/social",
+            "publishedAt": "2023-06-08T12:00:04Z",
+            "content": "WSJ News Exclusive | Cuba to Host Secret Chinese Spy Base Focusing on U.S.\r\nWASHINGTON—China and Cuba have reached a secret agreement for China to establish an electronic eavesdropping facility on th… [+809 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Caitlin McCabe",
+            "title": "GameStop Shares Tumble After CEO Is Fired",
+            "description": "Weekly jobless claims data are due at 8:30 a.m. ET",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-08-2023",
+            "urlToImage": "https://images.wsj.net/im-796590?width=600",
+            "publishedAt": "2023-06-08T10:51:05Z",
+            "content": "GameStop shares are plummeting in premarket trading, following Wednesdays news that it had fired its chief executive officer and elevated Ryan Cohen to executive chairman.\r\nShares slid as much as 19%… [+579 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dieter Holger",
+            "title": "Recycling and Regulation Are Hot Issues in Likely Update to U.S. Sustainable Marketing Guides",
+            "description": "Nestlé and SC Johnson are at odds over whether the FTC should pursue stricter regulations as green claims rise",
+            "url": "https://www.wsj.com/articles/recycling-and-regulation-are-hot-issues-in-likely-update-to-u-s-sustainable-marketing-guides-7f59cd8a",
+            "urlToImage": "https://images.wsj.net/im-796011/social",
+            "publishedAt": "2023-06-08T07:30:14Z",
+            "content": "A highly anticipated refresh of the U.S. Federal Trade Commissions environmental marketing guides has prompted debate among some of Americas biggest consumer goods companies over potential new regula… [+7107 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Moira Hodgson",
+            "title": "‘Elixir’ Review: Perfume and Science in Paris",
+            "description": "How two 19th-century chemists made fashionable scents by day and scientific breakthroughs in the lab at night.",
+            "url": "https://www.wsj.com/articles/elixir-review-perfume-and-science-in-paris-f04486b4",
+            "urlToImage": "https://images.wsj.net/im-794573/social",
+            "publishedAt": "2023-06-07T20:49:35Z",
+            "content": "In the mid-1830s two ambitious Parisian chemists, Édouard Laugier and Auguste Laurent, set out to answer a question that had perplexed scientists for centuries. By day they worked at a perfume house,… [+408 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Helicopter Parents Show Up in Workplace...",
+            "description": "Anxious parents are filling out job applications, appearing at interviews and mediating work conflicts; ‘my mom doesn’t think it’s a good idea’",
+            "url": "https://www.wsj.com/articles/helicopter-parents-workplace-children-jobs-9e0d31af",
+            "urlToImage": "https://images.wsj.net/im-794722/social",
+            "publishedAt": "2023-06-07T20:00:04Z",
+            "content": "Helicopter Parents Show Up in the WorkplaceRobi Williams was headed into a Dollar Tree in Loganville, Ga., recently when she saw an angry woman on her phone entering first.  Copyright ©2023 Dow Jones… [+614 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": null,
+            "title": "Jody Allen Continuing To Resist Offers From Phil Knight To Buy Blazers",
+            "description": "Phil Knight has interest in purchasing the Portland Trail Blazers, but he has been unable to engage Jody Allen, according to a report from Rachel Bachman of the Wall Street Journal.\nJody Allen is managing the estate of her late brother Paul Allen, including t…",
+            "url": "https://www.wsj.com/sports/basketball/phil-knight-paul-allen-portland-trail-blazers-sale-smolinisky-c6a0b065",
+            "urlToImage": "https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Allen_Jody_por_220422.jpg",
+            "publishedAt": "2023-06-06T15:54:53Z",
+            "content": "Phil Knight has interest in purchasing the Portland Trail Blazers, but he has been unable to engage Jody Allen, according to a report from Rachel Bachman of the Wall Street Journal.\r\nJody Allen is ma… [+922 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Will Horner",
+            "title": "Oil Price Rally Fizzles After Saudi Production Cuts Fail to Impress",
+            "description": "S&P 500 futures hold broadly steady in early trading",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-06-2023",
+            "urlToImage": "https://images.wsj.net/im-794901/social",
+            "publishedAt": "2023-06-06T10:59:52Z",
+            "content": "Saudi Arabia's plan to boost oil prices isn't working.\r\nOil prices slid Tuesday, erasing gains that followed a Saudi plan to slash output, as fears about weak global demand outweighed expectations of… [+195 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "What's It Mean to Be Human? Ape-Sized Brain Relative Shakes Up Theories...",
+            "description": "Findings indicate some cultural behavior unique to humans and Neanderthals also present in extinct species Homo naledi",
+            "url": "https://www.wsj.com/articles/human-cave-discovery-south-africa-homo-naledi-95db7f43",
+            "urlToImage": "https://images.wsj.net/im-793611/social",
+            "publishedAt": "2023-06-05T19:00:04Z",
+            "content": "What Does It Mean to Be Human? Ape-Sized Brain Relative Shakes Up Theories\r\nDiscoveries from a subterranean cave system in South Africa are prompting paleoanthropologists to rethink what makes us hum… [+934 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Wall Street Journal",
+            "title": "What’s Lost When Movie Theatres Upgrade",
+            "description": "I understand that theaters are desperate to win back customers, but going to the movies isn’t just about comfort",
+            "url": "https://www.wsj.com/articles/movie-theaters-luxury-customers-76220b81",
+            "urlToImage": "https://images.wsj.net/im-786975/social",
+            "publishedAt": "2023-06-05T15:40:53Z",
+            "content": "Even before the pandemic, movie theaters were going luxe, offering amenities to counteract the emergence of home theaters. Then the pandemic turned many homes into de facto entertainment centersflat-… [+224 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "wsj",
+            "title": "Missed Dozens of Known Images of Child Sexual Abuse Material...",
+            "description": "Social-media platform has now improved its detection system, Stanford Internet Observatory was told",
+            "url": "https://www.wsj.com/articles/twitter-missed-dozens-of-known-images-of-child-sexual-abuse-material-researchers-say-58d44f7b",
+            "urlToImage": "https://images.wsj.net/im-792486/social",
+            "publishedAt": "2023-06-05T15:00:04Z",
+            "content": "WSJ News Exclusive | Twitter Missed Dozens of Known Images of Child Sexual Abuse Material, Researchers Say\r\nTwitter failed to prevent dozens of known images of child sexual abuse from being posted on… [+843 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Weilun Soon",
+            "title": "Oil Prices Rally After Saudis Vow Additional Cuts of 1 Million Barrels a Day",
+            "description": "Stock futures are mixed after a strong showing for major indexes Friday",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-05-2023",
+            "urlToImage": "https://images.wsj.net/im-794155?width=600",
+            "publishedAt": "2023-06-05T07:37:33Z",
+            "content": "Crude oil futures opened the trading week higher after Saudi Arabia said that it was cutting production on top of OPEC+ reductions.\r\nMost-actively Brent crude oil contracts jumped, and recently stood… [+514 chars]"
+        }
+    ]
+}
